@@ -45,3 +45,18 @@ Power BI · Excel
 
 Kaggle — Superstore Dataset 
 https://www.kaggle.com/datasets/binib1997/superstore?utm_source=chatgpt.com
+
+
+##  Dashboard Screenshots
+
+### Overview
+![Dashboard Overview](Images/dashboard_overview.png)
+
+### Interactive Filtering — Technology Category
+![Filter Technology](Images/dashboard_filter_technology.png)
+
+### Discount Impact — Profit Goes Negative at 40% Discount
+![Tooltip Loss](Images/dashboard_tooltip_loss.png)
+
+### Discount Impact — Profit at 20% Discount
+![Tooltip Profit](Images/dashboard_tooltip_profit.png)
